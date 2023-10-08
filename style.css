@@ -1,0 +1,17 @@
+.stopwatch-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .stopwatch-time {
+    font-size: 48px;
+  }
+  
+  .stopwatch-buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
